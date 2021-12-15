@@ -6,9 +6,19 @@
     "streetsidesoftware.code-spell-checker",
     "formulahendry.auto-close-tag",
     "formulahendry.auto-rename-tag",
-    "letrieu.expand-region",
-    "coenraads.bracket-pair-colorizer",
     "vincaslt.highlight-matching-tag",
-    "wayou.vscode-todo-highlight"
+    "wayou.vscode-todo-highlight",
+    "ms-vscode-remote.remote-containers",
+    "visualstudioexptteam.vscodeintellicode",
+    "mhutchie.git-graph",
+    "donjayamanne.githistory",
+    "github.vscode-pull-request-github",
+    "github.github-vscode-theme",
+    "mtxr.sqltools",
+    "mtxr.sqltools-driver-pg",
+    "prisma.prisma",
+    "zenclabs.reactpreview",
+    "rikurouvila.typehole",
+    "rangav.vscode-thunder-client"
   ]
 }
