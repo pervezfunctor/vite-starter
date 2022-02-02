@@ -26,6 +26,7 @@ specifiers:
   rimraf: 3.0.2
   tiny-invariant: 1.2.0
   tiny-warning: 1.0.3
+  ts-essentials: ^9.1.2
   tslib: 2.3.1
   typescript: 4.5.5
   use-immer: 0.6.0
@@ -41,6 +42,7 @@ dependencies:
   react-query: 3.34.12_react-dom@17.0.2+react@17.0.2
   tiny-invariant: 1.2.0
   tiny-warning: 1.0.3
+  ts-essentials: 9.1.2_typescript@4.5.5
   tslib: 2.3.1
   use-immer: 0.6.0_immer@9.0.12+react@17.0.2
   zod: 3.11.6
@@ -3828,6 +3830,14 @@ packages:
     dependencies:
       is-number: 7.0.0
     dev: true
+
+  /ts-essentials/9.1.2_typescript@4.5.5:
+    resolution: {integrity: sha512-EaSmXsAhEiirrTY1Oaa7TSpei9dzuCuFPmjKRJRPamERYtfaGS8/KpOSbjergLz/Y76/aZlV9i/krgzsuWEBbg==}
+    peerDependencies:
+      typescript: '>=4.1.0'
+    dependencies:
+      typescript: 4.5.5
+    dev: false
 
   /tsconfig-paths/3.12.0:
     resolution: {integrity: sha512-e5adrnOYT6zqVnWqZu7i/BQ3BnhzvGbjEjejFXO20lKIKpwTaupkCPgEfv4GZK1IBciJUEhYs3J3p75FdaTFVg==}
