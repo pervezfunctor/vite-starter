@@ -1,7 +1,6 @@
 {
   "recommendations": [
     "esbenp.prettier-vscode",
-    "msjsdiag.debugger-for-chrome",
     "dbaeumer.vscode-eslint",
     "streetsidesoftware.code-spell-checker",
     "formulahendry.auto-close-tag",
@@ -17,7 +16,6 @@
     "mtxr.sqltools",
     "mtxr.sqltools-driver-pg",
     "prisma.prisma",
-    "zenclabs.reactpreview",
     "rikurouvila.typehole",
     "rangav.vscode-thunder-client"
   ]
