@@ -20,6 +20,7 @@
     "declarationMap": true,
     "noFallthroughCasesInSwitch": true,
     "noImplicitAny": true,
+    "strictPropertyInitialization": true,
     "noImplicitReturns": true,
     "noImplicitThis": true,
     "noUnusedLocals": true,
