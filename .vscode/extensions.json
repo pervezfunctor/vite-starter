@@ -17,6 +17,8 @@
     "mtxr.sqltools-driver-pg",
     "prisma.prisma",
     "rikurouvila.typehole",
-    "rangav.vscode-thunder-client"
+    "rangav.vscode-thunder-client",
+    "ms-edgedevtools.vscode-edge-devtools",
+    "pomdtr.excalidraw-editor"
   ]
 }
