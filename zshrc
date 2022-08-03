@@ -1,6 +1,6 @@
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
-
+[ -d $HOME/.oh-my-zsh ] || sh -c '$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)'
 # Path to your oh-my-zsh installation.
 export ZSH=$HOME/.oh-my-zsh
 
