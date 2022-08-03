@@ -1,6 +1,10 @@
 export ZSH=$HOME/.oh-my-zsh
 
-ZSH_THEME="codespaces"
+SPACESHIP_NODE_SHOW=false
+SPACESHIP_GIT_SYMBOL=""
+SPACESHIP_PACKAGE_SHOW=false
+
+ZSH_THEME="spaceship"
 
 plugins=(
     dirhistory
