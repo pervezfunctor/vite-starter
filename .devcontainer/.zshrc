@@ -81,6 +81,8 @@ plugins=(
     common-aliases
     sudo
     cp
+    zsh-syntax-highlighting
+    zsh-autosuggestions
 )
 
 source $ZSH/oh-my-zsh.sh
