@@ -28,6 +28,11 @@ module.exports = {
     react: { version: 'detect' },
   },
   rules: {
+    '@typescript-eslint/restrict-plus-operands': 'off',
+    'no-case-declarations': 'off',
+    '@typescript-eslint/no-unsafe-return': 'off',
+    '@typescript-eslint/no-unsafe-member-access': 'off',
+    '@typescript-eslint/no-unsafe-assignment': 'off',
     '@typescript-eslint/member-ordering': 'off',
     '@typescript-eslint/no-explicit-any': 'off',
     '@typescript-eslint/no-parameter-properties': 'off',
@@ -84,7 +89,6 @@ module.exports = {
     '@typescript-eslint/prefer-string-starts-ends-with': 'error',
     '@typescript-eslint/promise-function-async': 'error',
     '@typescript-eslint/require-array-sort-compare': 'error',
-    '@typescript-eslint/restrict-plus-operands': 'error',
     '@typescript-eslint/unified-signatures': 'error',
 
     'array-callback-return': 'error',
@@ -114,7 +118,7 @@ module.exports = {
     'no-eval': 'error',
     'no-ex-assign': 'error',
     'no-extend-native': 'error',
-    'no-extra-bind': 'error',
+    'no-extra-bind': 'off',
     'no-extra-label': 'error',
     'no-fallthrough': 'error',
     'no-func-assign': 'error',
@@ -208,7 +212,7 @@ module.exports = {
     'jsx-a11y/scope': 'error',
 
     'react/jsx-key': 'error',
-    'react/jsx-no-bind': 'error',
+    'react/jsx-no-bind': 'off',
     'react/jsx-no-comment-textnodes': 'error',
     'react/jsx-no-duplicate-props': 'error',
     'react/jsx-no-target-blank': 'error',
