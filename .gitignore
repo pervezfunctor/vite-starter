@@ -46,3 +46,4 @@ build/
 out/
 yarn-error.log
 .pnpm-store
+.turbo
